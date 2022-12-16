@@ -17,7 +17,11 @@ shared hidden factor or edu and wage.
 ## Posterior
 
 The posterior results look similar to our simulation parameters, they can be seen 
-in the posterior.png file.
+in the `model.png` file.
 
-The correlation between estimated u and actual iq is 0.77.
+Please compare to the model with no hidden factor in `altmodel.png`.
 
+Some of the estimated parameters are closer to true value in the more complex model.
+The variance of the error is smaller in the complex model.
+
+The correlation between estimated u and actual iq is 0.74.
